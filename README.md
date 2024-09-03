@@ -1,4 +1,4 @@
-# Jamal Saleh  
+# 🚀 Jamal Saleh  
 **The Extroverted Engineer** 😄
 
 I'm a Full-Stack Software Engineer with a strong focus on front-end development and Angular expertise. I specialize in crafting dynamic and responsive web applications, transforming complex business requirements into intuitive user interfaces. My portfolio includes impactful digital solutions for diverse sectors, ranging from supply chain management to governmental projects across the MENA region and the United Kingdom. 🌍
